@@ -1,16 +1,17 @@
-### Hi there 👋
+# Acsa Tonon
 
-<!--
-**acsatonon/acsatonon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 18 anos e sou apaixonada em tecnologia 
+Sou uma estudante de programação
 
-Here are some ideas to get you started:
+* No momento estou no curso Técnico em desevolvimento Web e Mobile na <https://efg.org.br
+* Estou em um projeto de extensão de DevOps e desenvolvimento de jogos
+* Sempre em busca de aprendizado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Alt text](image.png)
+
+# Linguagens que estudo:
+* Python 
+* Godot
+
+# Contato 
+<https://wa.me/qr/LWECZANGDUKXH1
